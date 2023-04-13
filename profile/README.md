@@ -13,5 +13,5 @@ PBF是一个多线程极速响应机器人框架
 
 ## 捐助
 您的捐助有利于猪比更好的运营、发展。猪比目前所有费用全部由开发者承担，~已经入不敷出了~  
-![afdian-Gingmzmzx](https://user-images.githubusercontent.com/49107602/231656781-0af7f81c-359f-4104-85b6-71aa8471d33a.jpg)  
+[![在爱发电支持我](https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.jpg)](https://afdian.net/a/afdian)  
 希望早日在赞助名单中看到您！
