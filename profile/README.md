@@ -2,7 +2,8 @@
 PBF是一个多线程极速响应机器人框架
 
 ## 项目列表
-- [PBFv4（最新版本）](https://github.com/PigBotFramework/v4)
+- [PBFNext](https://github.com/PigBotFramework/next)
+- [PBFv4（停止维护）](https://github.com/PigBotFramework/v4)
 - [PBFv3（停止维护）](https://github.com/PigBotFramework/v3)
 - [PBFLauncher（PBF本地版，内核PBFv3，已停止维护，请使用PBFv4代替）](https://github.com/PigBotFramework/PBFLauncher)
 - [PBF开发者文档（目前为PBFv3版本，待更新）](https://github.com/PigBotFramework/docs)
